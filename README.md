@@ -1,0 +1,1 @@
+# folder-per-cluster-namespace
